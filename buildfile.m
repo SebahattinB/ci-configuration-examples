@@ -1,6 +1,6 @@
 function plan = buildfile
 
-% Add the source folder to the path
+% Add the source folder to the path test
 addpath("code");
 
 % Create a plan
